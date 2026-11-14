@@ -54,6 +54,3 @@ Structure:
 Keep it honest: don't inflate minor issues, don't hide blockers. If something couldn't be tested (needs real login, external service down), say so.
 
 After reporting, offer to fix the top findings; only edit code on the user's yes, then re-run the affected task as the same persona to verify.
-
-## Project notes (Pakem)
-If testing Pakem (this repo): read `lanjutan web.md` / `lanjutan app.md` first for how to run it; the target persona is an Indonesian office worker who makes recurring reports and is not technical. Flag any visible code, JSON or technical jargon on the site, and anything that feels "rusuh" (busy) — the user wants a calm, simple site.
